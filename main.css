@@ -1,6 +1,9 @@
 body{
   font-size: 40px;
 }
+h1{
+  margin: auto;
+}
 img{
   display: block;
   height: 500px;
